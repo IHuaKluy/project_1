@@ -9,6 +9,7 @@ Explore and analyze the students data to see how the length of stay (stay) impac
 - The average columns should contain the average of the todep (PHQ-9 test), tosc (SCS test), and toas (ASISS test) columns for each length of stay, rounded to two decimal places.
 - The count_int column should be the number of international students for each length of stay.
 - Sort the results by the length of stay in descending order.
+
 Note: Creating new cells in the workbook will rename the DataFrame. Make sure that your final solution uses the name df.
 
 ![image](https://github.com/user-attachments/assets/65f01dc3-dd2d-475b-b8bb-6f8ee1113531)
